@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="chiqish">Ilovadan chiqish</string>
+    <string name="message">Ilovadan haqiqatdan ham chiqishni xohlaysizmi ?</string>
+    <string name="yes">Ha xohlayman </string>
+    <string name="no">Yo\'q chiqmayman</string>
+</resources>
